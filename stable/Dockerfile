@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos:7
 MAINTAINER Boyan Botev <boyan_botev@premierinc.com> 
 
 ENV     LD_LIBRARY_PATH=/usr/local/lib
